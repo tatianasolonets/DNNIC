@@ -1,2 +1,2 @@
 # DNNIC
-Deep Neural Network for Image Classification Study Project
+Deep Neural Network for Image Classification Learning Project
