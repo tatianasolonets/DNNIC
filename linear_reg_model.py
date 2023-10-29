@@ -1,4 +1,4 @@
-from Helper_Functions import *
+from helper_functions import *
 
 """
 Builds the logistic regression model by calling the function you've implemented previously
